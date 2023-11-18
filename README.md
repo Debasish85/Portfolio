@@ -12,5 +12,5 @@ This portfolio provides my journey in the world of Data Science and has link to 
 
 ## Contact:
 - My email contact: debasish.panda35@gmail.com
-- My linked In profile: www.linkedin.com/in/debasish-panda-691a4610
-- 
+- My linked In profile: <https://www.linkedin.com/in/debasish-panda-691a4610>
+  
