@@ -3,7 +3,7 @@ Hi, my name is Debasish Panda. I am a graduate student in Data Science from Bell
 
 I am a proud father of two beautiful kids, a committed husband, a caring son and a grateful citizen. While I am not working, I love to explore new places, read books, spend time with my family, play tennis or badminton. Cooking is one of my favorite stress busters and I love preparing new dishes.
 
-This portfolio provides my journey in the world of Data Science and has link to my Github reposiroties where you can fins the projects that I have undertaken during this course. 
+This portfolio provides my journey in the world of Data Science and has link to my Github reposiroties where you can find the projects that I have undertaken during this course. 
 
 
 #### Technical Skills: Python, SQL, R, Spark,Jupyter, OCP, IBM Mainframes.
@@ -16,7 +16,11 @@ Bacterial antibiotic resistance has become a significant health risk. Hence, rap
 
 ![Classification Model](/assets/images/Classification Model.png)
 
+### Stroke Prediction
+[Repo](https://github.com/Debasish85/Stroke-Prediction)
 
+This objective of this project is to design a robust system that works efficiently and will be able to predict the possibility of Stroke accurately. This project is going to use some of the prediction modelling techniques to predict whether a given person is likely to have a stroke or not based on the risk factors.
+![Stroke Prediction](/assets/images/Stroke Prediction.png)
 
 ## Contact:
 I can be reached out via the following mediums.
