@@ -36,6 +36,20 @@ Hence, we are going to leverage the congressional resignation data set to find o
 
 ![Resignation](/assets/images/Resignation.png)
 
+### World GDP Data
+[Repo](https://github.com/Debasish85/World-GDP-Data)
+
+GDP is an important measurement for economists and investors because it tracks changes in the size of the entire economy. In addition to serving as a comprehensive measure of economic health, GDP reports provide insights about the factors driving economic growth or holding it back.  I have used Web scraping to fetch data from IMF’s website (for GDP data) and Worldometer’s website for population data to find relationship between data sets.
+
+![GDP](/assets/images/GDP.png)
+
+### Weather App
+[Repo](https://github.com/Debasish85/Weather-App)
+
+This project fetches current weather details for a given area or zipcode as entered by the user from https://openweathermap.org/. The project is built using Python and it uses the API to fetch weather details. This was the first python project ensure understanding various aspects of Python programming.
+
+![weather app](/assets/images/weather app.png)
+
 ## Contact:
 I can be reached out via the following mediums.
 - My email contact: debasish.panda35@gmail.com
