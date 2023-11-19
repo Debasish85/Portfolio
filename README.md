@@ -43,7 +43,12 @@ GDP is an important measurement for economists and investors because it tracks c
 
 ![GDP](/assets/images/GDP.png)
 
+### Weather App
+[Repo](https://github.com/Debasish85/Weather-App)
 
+This project fetches current weather details for a given area or zipcode as entered by the user from https://openweathermap.org/. The project is built using Python and it uses the API to fetch weather details. This was the first python project ensure understanding various aspects of Python programming.
+
+![weather app](/assets/images/weather app.png)
 
 ## Contact:
 I can be reached out via the following mediums.
