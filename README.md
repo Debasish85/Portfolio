@@ -29,6 +29,13 @@ Due to recent unfortunate airline crashes, the media has been promoting statisti
 
 ![Airline Safety](/assets/images/Airline Safety.png)
 
+### Congressional Resignation
+[Repo](https://github.com/Debasish85/Congressional-Resignation)
+For any electoral campaign management company to run a successful campaign, avoid the problem of an unsuccessful campaign, and to ensure successful office election CampaignMe will gather and analyze prior candidate history, including resignation history in past offices held. CampaignMe (the campaign management company) is looking to take on candidates with the highest probability of winning elections, and devise strategies to ensure that they will get elected.
+Hence, we are going to leverage the congressional resignation data set to find out resigning member’s party and district, the date they resigned, the reason for their resignation and the source of the information about their resignation.
+
+![Resignation](/assets/images/Resignation.png)
+
 ## Contact:
 I can be reached out via the following mediums.
 - My email contact: debasish.panda35@gmail.com
