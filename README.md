@@ -8,9 +8,18 @@ This portfolio provides my journey in the world of Data Science and has link to 
 
 #### Technical Skills: Python, SQL, R, Spark,Jupyter, OCP, IBM Mainframes.
 
-## Projects
+## Projects:
+### Classification model for auto-identification of Microbes
+[Repo](https://github.com/Debasish85/Classification-model-for-auto-identification-of-Microbes)
+
+Bacterial antibiotic resistance has become a significant health risk. Hence, rapid identification of antibiotic-resistant bacteria has become paramount in saving lives and reduce the spread of antibiotic resistance. In patients with septic shock from bacterial infections, identification of antibiotic-resistance genes is essential because the mortality rate increases 7.6% per hour of delay in administering correct antibiotics. Unfortunately, it takes more than 24 h to grow up the bacteria recovered from the blood of an infected patient, identify the species, and then determine to which antibiotics the organism is resistant, leading to a very high mortality rate for such infections.Hence, this project is aiming to employ machine learning to rapidly classify microbes using measurements of cellular features generated from microscopic imagery.
+
+![Classification Model](/assets/images/Classification Model.png)
+
+
 
 ## Contact:
+I can be reached out via the following mediums.
 - My email contact: debasish.panda35@gmail.com
 - My linked In profile: <https://www.linkedin.com/in/debasish-panda-691a4610>
   
