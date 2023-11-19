@@ -22,6 +22,13 @@ Bacterial antibiotic resistance has become a significant health risk. Hence, rap
 This objective of this project is to design a robust system that works efficiently and will be able to predict the possibility of Stroke accurately. This project is going to use some of the prediction modelling techniques to predict whether a given person is likely to have a stroke or not based on the risk factors.
 ![Stroke Prediction](/assets/images/Stroke Prediction.png)
 
+### Airline Safety
+[Repo](https://github.com/Debasish85/Airline-Safety)
+
+Due to recent unfortunate airline crashes, the media has been promoting statistics stating air is no longer a safe way to travel. The news and media outlets have been bombarding the public with reports and figures about the downward trends of airline safety. We will be taking data and statistics into consideration and find out what is the truth.
+
+![Airline Safety](/assets/images/Airline Safety.png)
+
 ## Contact:
 I can be reached out via the following mediums.
 - My email contact: debasish.panda35@gmail.com
